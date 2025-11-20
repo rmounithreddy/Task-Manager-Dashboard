@@ -1,0 +1,19 @@
+# Ignore virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# SQLite DB (optional - keep if you want sample data)
+*.sqlite3
